@@ -1,7 +1,7 @@
 /**
  * Application controller
  *
- * @author antonio ramirez <antonio@clevertech.biz>
+ * 
  */
 define([
     'backboneMarionette',

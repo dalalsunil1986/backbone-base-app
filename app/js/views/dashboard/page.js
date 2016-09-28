@@ -3,7 +3,7 @@
  *
  * Renders dashboard page
  *
- * @author Antonio Ramirez <antonio@clevertech.biz>
+ * 
  */
 define([
     'backboneMarionette',

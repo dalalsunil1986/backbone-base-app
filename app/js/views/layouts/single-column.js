@@ -3,7 +3,7 @@
  *
  * Renders two column layout
  *
- * @author joel capillo <hunyoboy@gmail.com>
+ * 
  */
 define([
     'backboneMarionette',

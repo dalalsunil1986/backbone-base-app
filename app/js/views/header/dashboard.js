@@ -3,7 +3,7 @@
  * DashboarHeaderMenuView
  *
  * Renders dashboard navigation bar
- * @author antonio ramirez <antonio@clevertech.biz>
+ * 
  */
 define([
     'backboneMarionette',

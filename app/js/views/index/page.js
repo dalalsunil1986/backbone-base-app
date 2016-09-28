@@ -3,7 +3,7 @@
  *
  * Renders demo index page with login box
  *
- * @author Antonio Ramirez <antonio@clevertech.biz>
+ * 
  */
 define([
     'backboneMarionette',

@@ -3,7 +3,7 @@
  *
  * Renders footer
  *
- * @author Antonio Ramirez <antonio@clevertech.biz>
+ * 
  */
 define([
     'backboneMarionette',
